@@ -1,0 +1,4 @@
+,flightno,actualflight,departtime,arrivetime,crawltime,discount,lowest_price,days_to_departure
+0,KN5856,,11:30:00,16:45:00,2019-09-25 15:08:38,9.6,2178,0
+1,KN5868,,16:35:00,20:00:00,2019-09-25 15:08:38,4.9,1112,0
+2,KN5868,,16:35:00,20:00:00,2019-09-26 15:19:57,7.5,1710,0
